@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Hitalo 👋</h1>
 
 <p align="center">
-  Estudante de Engenharia de Software | Backend com Java + Spring Boot | Apaixonado por aprender coisas novas 🚀
+  Engenheiro de Software | Backend com Java + Spring Boot | Apaixonado por aprender coisas novas 🚀
 </p>
 
 ---
